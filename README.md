@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I am a software developer and CS student with experience in developing web apps using MERN .<br>I mainly use Javascript. Currently , I am learning TypeScript , Next.js and <br>AI automations with n8n to expand my skillset and have better opportunities.<br>I have an interest in Ai driven development , IoT and crafting AI Agents that make life and work better.<br>
+I am a software developer and CS student with experience in developing web apps using MERN .<br>I mainly use Javascript. Currently , I am learning TypeScript , Next.js and <br>Go to expand my skillset and have better opportunities.<br>I have an interest in Ai driven development , IoT and crafting AI Agents that make life and work better.<br>
 
 
 ## 🌐 Socials:
