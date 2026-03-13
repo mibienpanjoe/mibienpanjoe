@@ -40,12 +40,12 @@ coding_philosophy: |
 <div align="center">
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=go,c,js,ts,java,python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,c,js,ts,python&theme=dark" />
 
 <br />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,redux,bootstrap,tailwind&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,html,css,tailwind&perline=8&theme=dark" />
 
 <br />
 
