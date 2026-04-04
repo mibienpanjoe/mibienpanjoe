@@ -57,7 +57,7 @@ coding_philosophy: |
 <br />
 
 ### Databases and Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vercel,npm,bun&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,redis,mongodb,mysql,sqlite,git,github,vercel,npm,bun&perline=9&theme=dark" />
 
 <br />
 
