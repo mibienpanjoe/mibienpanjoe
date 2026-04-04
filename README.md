@@ -45,7 +45,7 @@ coding_philosophy: |
 <br />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,html,css,tailwind&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&perline=8&theme=dark" />
 
 <br />
 
