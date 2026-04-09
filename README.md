@@ -77,20 +77,6 @@ coding_philosophy: |
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="28"> Coding Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mibienpanjoe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mibienpanjoe&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mibienpanjoe&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
----
-
 ## Connect and Collaborate
 
 <div align="center">
