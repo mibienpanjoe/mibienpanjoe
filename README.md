@@ -12,29 +12,6 @@
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> About Me
-
-
-```yaml
-name: "Joseph PARE"
-github: "mibienpanjoe"
-current_role: "Software Developer and CS Student"
-primary_stack: "MERN"
-currently_learning: ["TypeScript", "Next.js", "Go", "Advanced TUI patterns"]
-interests: ["AI", "CLI Apps", "TUIs", "Cloud", "Anime", "Basketball"]
-
-mission: "Build practical products, improve every day, and ship impact"
-
-special_focus: "Building fast CLI tools and TUIs with Cobra and Bubble Tea"
-
-coding_philosophy: |
-  "Keep it clean, keep it useful, keep it human.
-   Great software should be reliable, understandable, and enjoyable to use."
-
-```
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="28"> Toolkit
 
 <div align="center">
