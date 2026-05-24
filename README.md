@@ -4,12 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="900" alt="Profile banner" />
 </div>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Software+Developer+%7C+ CS Student;Learn+%7C+Code+%7C+Ship"
-    alt="Dynamic identity"
-  />
-</div>
+
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="28"> Toolkit
